@@ -1,4 +1,10 @@
-### Hi there 👋
+###Lucas Farias
+
+Developer Reactjs | React Native 
+
+Passionate about technology and learning new things
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-farias-goncalves/)](https://www.linkedin.com/in/lucas-farias-goncalves/) 
 
 <!--
 **Lucasfarg/Lucasfarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
