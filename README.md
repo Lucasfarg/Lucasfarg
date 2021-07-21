@@ -1,6 +1,6 @@
 # Lucas Farias
 
-Developer Reactjs | React Native 
+Front-end Developer Reactjs | React Native 
 
 Passionate about technology and learning new things 🖥️
 
