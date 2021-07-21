@@ -2,7 +2,7 @@
 
 Developer Reactjs | React Native 
 
-Passionate about technology and learning new things
+Passionate about technology and learning new things 🖥️
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Farias-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-farias-goncalves/)](https://www.linkedin.com/in/lucas-farias-goncalves/) 
 
